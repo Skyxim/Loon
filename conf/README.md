@@ -31,5 +31,7 @@ https://raw.githubusercontents.com/Skyxim/Loon/master/conf/Loon.conf
 ## 6.选择节点
 
 Loon节点选以策略组为核心,所有节点选择在**策略组**中进行,可在策略组为**Global**策略组选择所要使用节点,具体Gloabl中的节点按照你的订阅为主(***仪表盘的所有节点只用于查看,无法切换节点***)
+
 ![策略组](../imgs/policy_group.jpg)
+
 ***ps. 为保险起见,完成以上步骤后点击仪表盘->订阅->右上角 进行全部更新保证资源正确被下载***
