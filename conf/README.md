@@ -2,7 +2,7 @@
 1.下载配置
 
 复制
-https://raw.githubusercontent.com/Skyxim/Loon/master/conf/Loon.conf
+https://raw.githubusercontents.com/Skyxim/Loon/master/conf/Loon.conf
 到Loon->配置->从URL下载->添加![](../imgs/conf_download.jpg)
 
 2.添加订阅
